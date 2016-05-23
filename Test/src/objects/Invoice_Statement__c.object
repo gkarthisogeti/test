@@ -130,6 +130,16 @@
         <trackTrending>false</trackTrending>
         <type>EncryptedText</type>
     </fields>
+    <fields>
+        <fullName>TestName__c</fullName>
+        <externalId>false</externalId>
+        <label>TestName</label>
+        <length>10</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <label>Invoice Statement</label>
     <listViews>
         <fullName>All</fullName>
