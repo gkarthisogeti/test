@@ -119,6 +119,16 @@
         <type>Lookup</type>
     </fields>
     <fields>
+        <fullName>NewField__c</fullName>
+        <externalId>false</externalId>
+        <label>NewField</label>
+        <length>5</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>SSN__c</fullName>
         <externalId>false</externalId>
         <inlineHelpText>Tes</inlineHelpText>
